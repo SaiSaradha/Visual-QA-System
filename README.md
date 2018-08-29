@@ -1,4 +1,4 @@
-# Visual-QA-System
+# Visual-QA-System in Tensorflow
 
 A simple Visual Question Answering (VQA) system was built and the performance of two different neural
 network models - Baseline Multi Layer Perceptron (MLP) and Long Short Term Memory (LSTM) -
